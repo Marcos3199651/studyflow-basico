@@ -1,4 +1,4 @@
-# StudyFlow (versão básica)
+# StudyFlow (Marcos Vinícius/ 37024348)
 
 SPA de organização de estudos feita com **React + Vite + React Router**.
 
