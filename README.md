@@ -20,3 +20,4 @@ Permitir que estudantes anotem tarefas e acompanhem o que já foi concluído, na
 npm install
 npm run dev
 ```
+# studyflow-basico
